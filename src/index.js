@@ -1,5 +1,5 @@
 import './sass/main.scss';
-import onSearch from './js/search';
+import onSearch from './JS/search';
 //
 
 // import { error } from '@pnotify/core';
