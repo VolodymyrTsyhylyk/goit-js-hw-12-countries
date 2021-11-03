@@ -14,11 +14,11 @@ const findCountryRef = document.querySelector('#find-country');
 
 findCountryRef.addEventListener('input', _.debounce(onSearch, 500));
 
-function onFetchError(error) {
-  console.log(error);
-}
+// function onFetchError(error) {
+//   console.log(error);
+// }
 
-export default onFetchError;
+// export default onFetchError;
 
 //
 
